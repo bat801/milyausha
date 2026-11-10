@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "title": {
+      "ru": "Сертификат I степени «Диктант здоровья» (100/100)",
+      "en": "First-Degree Certificate “Health Dictation” (100/100)",
+      "ba": "I дәрәжә «Һаулыҡ диктанты» сертификаты (100/100)",
+      "de": "Zertifikat 1. Grades „Gesundheitsdiktat“ (100/100)",
+      "sr": "Сертификат I степена „Диктант здравља“ (100/100)"
+    },
+    "category": "certificates",
+    "file": "assets/docs/health_dictation_2026.jpg",
+    "preview": "assets/docs/previews/health_dictation_2026.jpg",
+    "year": "2026"
+  },
+  {
+    "id": 2,
+    "title": {
+      "ru": "Большой этнографический диктант (100 баллов)",
+      "en": "Great Ethnographic Dictation (100 points)",
+      "ba": "Ҙур этнографик диктант (100 балл)",
+      "de": "Großes ethnografisches Diktat (100 Punkte)",
+      "sr": "Велики етнографски диктант (100 поена)"
+    },
+    "category": "certificates",
+    "file": "assets/docs/ethnographic_dictation_2023.jpg",
+    "preview": "assets/docs/previews/ethnographic_dictation_2023.jpg",
+    "year": "2023"
+  },
+  {
+    "id": 3,
+    "title": {
+      "ru": "Сертификат «Основы здорового питания»",
+      "en": "Certificate “Fundamentals of Healthy Nutrition”",
+      "ba": "«Сәләмәт туҡланыу нигеҙҙәре» сертификаты",
+      "de": "Zertifikat „Grundlagen gesunder Ernährung“",
+      "sr": "Сертификат „Основи здраве исхране“"
+    },
+    "category": "courses",
+    "file": "assets/docs/healthy_nutrition_2024.jpg",
+    "preview": "assets/docs/previews/healthy_nutrition_2024.jpg",
+    "year": "2024"
+  },
+  {
+    "id": 4,
+    "title": {
+      "ru": "Сертификат «Наставник» (Уфимский многопрофильный колледж)",
+      "en": "Certificate “Mentor” (Ufa Multidisciplinary College)",
+      "ba": "«Остаз» сертификаты (Өфө күп профилле колледжы)",
+      "de": "Zertifikat „Mentor“ (Multidisziplinäres College Ufa)",
+      "sr": "Сертификат „Ментор“ (Уфимски мултидисциплинарни колеџ)"
+    },
+    "category": "courses",
+    "file": "assets/docs/mentor_2023.jpg",
+    "preview": "assets/docs/previews/mentor_2023.jpg",
+    "year": "2023"
+  },
+  {
+    "id": 5,
+    "title": {
+      "ru": "Свидетельство о публикации на Урок.РФ",
+      "en": "Publication Certificate on Urok.RF",
+      "ba": "Урок.РФ-та баҫтырыу тураһында таныҡлыҡ",
+      "de": "Veröffentlichungsnachweis auf Urok.RF",
+      "sr": "Потврда о објављивању на Urok.RF"
+    },
+    "category": "publications",
+    "file": "assets/docs/urok_rf_publication_2026.jpg",
+    "preview": "assets/docs/previews/urok_rf_publication_2026.jpg",
+    "year": "2026"
+  },
+  {
+    "id": 6,
+    "title": {
+      "ru": "Сертификат «Тотальный тест. Доступная среда»",
+      "en": "Certificate “Total Test. Accessible Environment”",
+      "ba": "«Тоталь тест. Мөмкинлекле мөхит» сертификаты",
+      "de": "Zertifikat „Totaler Test. Barrierefreie Umgebung“",
+      "sr": "Сертификат „Тотални тест. Приступачно окружење“"
+    },
+    "category": "certificates",
+    "file": "assets/docs/total_test_2023.jpg",
+    "preview": "assets/docs/previews/total_test_2023.jpg",
+    "year": "2023"
+  },
+  {
+    "id": 7,
+    "title": {
+      "ru": "Диктант Победы (38 баллов)",
+      "en": "Dictation of Victory (38 points)",
+      "ba": "Еңеү диктанты (38 балл)",
+      "de": "Diktat des Sieges (38 Punkte)",
+      "sr": "Диктант победе (38 поена)"
+    },
+    "category": "diplomas",
+    "file": "assets/docs/victory_dictation_2023.jpg",
+    "preview": "assets/docs/previews/victory_dictation_2023.jpg",
+    "year": "2023"
+  },
+  {
+    "id": 8,
+    "title": {
+      "ru": "Диктант Победы (25 баллов)",
+      "en": "Dictation of Victory (25 points)",
+      "ba": "Еңеү диктанты (25 балл)",
+      "de": "Diktat des Sieges (25 Punkte)",
+      "sr": "Диктант победе (25 поена)"
+    },
+    "category": "diplomas",
+    "file": "assets/docs/victory_dictation_2024.jpg",
+    "preview": "assets/docs/previews/victory_dictation_2024.jpg",
+    "year": "2024"
+  }
+]

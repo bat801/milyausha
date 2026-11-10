@@ -1,0 +1,192 @@
+{
+  "meta": {
+    "title": "Milyausha Nurieva — Teacher of English and German",
+    "description": "Portfolio of Milyausha Nuritdinovna Nurieva: 14 years of teaching experience, First Qualification Category, achievements, certificates and publications."
+  },
+  "brand": {
+    "name": "Milyausha Nurieva",
+    "role": "English & German"
+  },
+  "nav": {
+    "about": "About",
+    "experience": "Experience",
+    "achievements": "Achievements",
+    "contact": "Contact",
+    "cta": "Contact me"
+  },
+  "hero": {
+    "eyebrow": "Teacher portfolio",
+    "greeting": "Hello, my name is",
+    "name": "Milyausha Nurieva",
+    "role": "Teacher of English and German",
+    "bio": "I help students fall in love with foreign languages through real communication, projects and modern technology. I have been teaching at school for 14 years, developing communicative skills and preparing students for olympiads and competitions.",
+    "ctaContact": "Contact me",
+    "ctaAchievements": "View achievements",
+    "statExperienceValue": "14",
+    "statExperienceLabel": "years of experience",
+    "statCategoryValue": "I",
+    "statCategoryLabel": "qualification category",
+    "statLanguagesValue": "2",
+    "statLanguagesLabel": "languages taught",
+    "photoAlt": "Portrait of Milyausha Nurieva",
+    "caption": "First Qualification Category"
+  },
+  "experience": {
+    "eyebrow": "Professional journey",
+    "title": "Experience and education",
+    "intro": "I have been teaching English and German for over 14 years. I work with different age groups, prepare students for olympiads and competitions, and use interactive and digital tools.",
+    "educationTitle": "Education",
+    "timelineTitle": "Professional experience",
+    "current": "Current",
+    "edu": {
+      "sibgu": {
+        "period": "2004",
+        "title": "SIBGU, Faculty of Philology",
+        "text": "Speciality: Teacher of Foreign Languages (English and German)."
+      },
+      "retraining": {
+        "period": "2024",
+        "title": "Ufa University of Science and Technology",
+        "text": "Professional retraining in “Pedagogical Education. Primary General Education” (500+ hours). Qualification: Primary School Teacher."
+      }
+    },
+    "job": {
+      "vzletay": {
+        "period": "2025 — present",
+        "place": "MOBU SOSH “Vzletay”, Bulgakovo",
+        "role": "Teacher of English and German"
+      },
+      "arkhangelskoye": {
+        "period": "2020 — 2025",
+        "place": "MOBU SOSH No. 2, Arkhangelskoye",
+        "role": "Teacher of Foreign Languages"
+      },
+      "karmaskaly": {
+        "period": "2018 — 2019",
+        "place": "Karmaskaly",
+        "role": "Teacher of Foreign Languages"
+      },
+      "katav": {
+        "period": "2014 — 2018",
+        "place": "Katav-Ivanovsk",
+        "role": "Teacher of Foreign Languages"
+      },
+      "yumatovo": {
+        "period": "2012 — 2013",
+        "place": "Yumatovo",
+        "role": "Teacher of Foreign Languages"
+      },
+      "sibay": {
+        "period": "2010 — 2012",
+        "place": "MOBU SOSH No. 8, Sibay",
+        "role": "Teacher of Foreign Languages"
+      },
+      "serafimovka": {
+        "period": "2009 — 2010",
+        "place": "Serafimovka",
+        "role": "Teacher of Foreign Languages"
+      }
+    },
+    "languagesTitle": "Language proficiency",
+    "language": {
+      "bashkir": {
+        "name": "Bashkir",
+        "level": "Native"
+      },
+      "russian": {
+        "name": "Russian",
+        "level": "Native"
+      },
+      "english": {
+        "name": "English",
+        "level": "B2 — upper-intermediate"
+      },
+      "german": {
+        "name": "German",
+        "level": "B1 — intermediate"
+      }
+    },
+    "skillsTitle": "Key skills",
+    "skill": {
+      "1": "Teaching English and German",
+      "2": "Preparation for olympiads and competitions",
+      "3": "Individual learning pathways",
+      "4": "Interactive and digital technologies",
+      "5": "Project and extracurricular activities",
+      "6": "Teaching children with special educational needs",
+      "7": "Documentation and reporting"
+    }
+  },
+  "achievements": {
+    "eyebrow": "Portfolio",
+    "title": "Achievements",
+    "intro": "Certificates, diplomas, courses and publications that document ongoing professional development.",
+    "countLabel": "Documents:",
+    "filterLabel": "Filter by category",
+    "emptyTitle": "No documents in this category yet",
+    "emptyText": "Choose another category or return to all achievements.",
+    "emptyCta": "Show all"
+  },
+  "categories": {
+    "all": "All",
+    "certificates": "Certificates",
+    "diplomas": "Diplomas",
+    "courses": "Courses",
+    "publications": "Publications"
+  },
+  "document": {
+    "close": "Close",
+    "loading": "Loading document…",
+    "openNew": "Open in new tab",
+    "download": "Download",
+    "print": "Print",
+    "pdfHint": "If the document does not appear in the embedded viewer, open it in a new tab.",
+    "printBlocked": "The browser blocked the print window. Allow pop-ups and try again.",
+    "printFallback": "If printing did not start automatically, use the print button in the opened PDF file.",
+    "error": "The document could not be loaded. Open it in a new tab.",
+    "year": "Year",
+    "category": "Category",
+    "typePdf": "PDF",
+    "typeImage": "Image"
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Let’s get in touch",
+    "text": "Open to collaboration, methodological consultations and exchange of experience.",
+    "cta": "Contact me",
+    "modalTitle": "Contact me",
+    "modalText": "Choose the most convenient way to get in touch — I will try to reply as soon as possible.",
+    "close": "Close",
+    "open": "Open",
+    "label": {
+      "email": "Email",
+      "telegram": "Telegram",
+      "whatsapp": "WhatsApp",
+      "max": "MAX",
+      "vk": "VK"
+    },
+    "hint": {
+      "email": "amirken@mail.ru",
+      "telegram": "Message me on Telegram",
+      "whatsapp": "+7 927 963-24-94",
+      "max": "+7 927 963-24-94",
+      "vk": "VK profile"
+    }
+  },
+  "footer": {
+    "tagline": "Teacher of English and German",
+    "rights": "© 2026 Milyausha Nurieva. All rights reserved.",
+    "built": "A static website built with HTML, CSS and JavaScript.",
+    "backToTop": "Back to top"
+  },
+  "a11y": {
+    "skip": "Skip to content",
+    "home": "Back to home",
+    "mainNav": "Main navigation",
+    "languageSwitcher": "Select language",
+    "contactLinks": "Contact methods",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "external": "Opens in a new tab"
+  }
+}

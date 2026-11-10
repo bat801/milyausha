@@ -1,0 +1,192 @@
+{
+  "meta": {
+    "title": "Milyausha Nurieva — Lehrerin für Englisch und Deutsch",
+    "description": "Portfolio von Milyausha Nuritdinowna Nurieva: 14 Jahre Unterrichtserfahrung, erste Qualifikationskategorie, Leistungen, Zertifikate und Veröffentlichungen."
+  },
+  "brand": {
+    "name": "Milyausha Nurieva",
+    "role": "Englisch & Deutsch"
+  },
+  "nav": {
+    "about": "Über mich",
+    "experience": "Erfahrung",
+    "achievements": "Leistungen",
+    "contact": "Kontakt",
+    "cta": "Kontakt"
+  },
+  "hero": {
+    "eyebrow": "Lehrerinnenportfolio",
+    "greeting": "Guten Tag, mein Name ist",
+    "name": "Milyausha Nurieva",
+    "role": "Lehrerin für Englisch und Deutsch",
+    "bio": "Ich helfe Schülerinnen und Schülern, Fremdsprachen durch echte Kommunikation, Projekte und moderne Technologien zu entdecken. Seit 14 Jahren unterrichte ich an der Schule, fördere kommunikative Kompetenzen und bereite auf Olympiaden und Wettbewerbe vor.",
+    "ctaContact": "Kontakt aufnehmen",
+    "ctaAchievements": "Leistungen ansehen",
+    "statExperienceValue": "14",
+    "statExperienceLabel": "Jahre Erfahrung",
+    "statCategoryValue": "I",
+    "statCategoryLabel": "Qualifikationskategorie",
+    "statLanguagesValue": "2",
+    "statLanguagesLabel": "Unterrichtssprachen",
+    "photoAlt": "Porträt von Milyausha Nurieva",
+    "caption": "Erste Qualifikationskategorie"
+  },
+  "experience": {
+    "eyebrow": "Beruflicher Werdegang",
+    "title": "Erfahrung und Ausbildung",
+    "intro": "Seit über 14 Jahren unterrichte ich Englisch und Deutsch. Ich arbeite mit verschiedenen Altersgruppen, bereite auf Olympiaden und Wettbewerbe vor und setze interaktive sowie digitale Werkzeuge ein.",
+    "educationTitle": "Ausbildung",
+    "timelineTitle": "Berufserfahrung",
+    "current": "Aktuell",
+    "edu": {
+      "sibgu": {
+        "period": "2004",
+        "title": "SIBGU, Philologische Fakultät",
+        "text": "Studiengang: Lehrerin für Fremdsprachen (Englisch und Deutsch)."
+      },
+      "retraining": {
+        "period": "2024",
+        "title": "Universität für Wissenschaft und Technologie Ufa",
+        "text": "Berufliche Umschulung „Pädagogische Bildung. Primarstufe“ (500+ Stunden). Qualifikation: Grundschullehrerin."
+      }
+    },
+    "job": {
+      "vzletay": {
+        "period": "2025 — heute",
+        "place": "MOBU-Schule „Wsljotaj“, Dorf Bulgakowo",
+        "role": "Lehrerin für Englisch und Deutsch"
+      },
+      "arkhangelskoye": {
+        "period": "2020 — 2025",
+        "place": "MOBU-Schule Nr. 2, Dorf Archangelskoje",
+        "role": "Lehrerin für Fremdsprachen"
+      },
+      "karmaskaly": {
+        "period": "2018 — 2019",
+        "place": "Dorf Karmaskaly",
+        "role": "Lehrerin für Fremdsprachen"
+      },
+      "katav": {
+        "period": "2014 — 2018",
+        "place": "Stadt Kataw-Iwanowsk",
+        "role": "Lehrerin für Fremdsprachen"
+      },
+      "yumatovo": {
+        "period": "2012 — 2013",
+        "place": "Dorf Jumatowo",
+        "role": "Lehrerin für Fremdsprachen"
+      },
+      "sibay": {
+        "period": "2010 — 2012",
+        "place": "MOBU-Schule Nr. 8, Stadt Sibai",
+        "role": "Lehrerin für Fremdsprachen"
+      },
+      "serafimovka": {
+        "period": "2009 — 2010",
+        "place": "Dorf Serafimowka",
+        "role": "Lehrerin für Fremdsprachen"
+      }
+    },
+    "languagesTitle": "Sprachkenntnisse",
+    "language": {
+      "bashkir": {
+        "name": "Baschkirisch",
+        "level": "Muttersprache"
+      },
+      "russian": {
+        "name": "Russisch",
+        "level": "Muttersprache"
+      },
+      "english": {
+        "name": "Englisch",
+        "level": "B2 — fortgeschritten"
+      },
+      "german": {
+        "name": "Deutsch",
+        "level": "B1 — mittel"
+      }
+    },
+    "skillsTitle": "Kernkompetenzen",
+    "skill": {
+      "1": "Unterricht in Englisch und Deutsch",
+      "2": "Vorbereitung auf Olympiaden und Wettbewerbe",
+      "3": "Individuelle Lernwege",
+      "4": "Interaktive und digitale Technologien",
+      "5": "Projekt- und Arbeitsgemeinschaften",
+      "6": "Unterricht für Kinder mit sonderpädagogischem Förderbedarf",
+      "7": "Dokumentation und Berichtswesen"
+    }
+  },
+  "achievements": {
+    "eyebrow": "Portfolio",
+    "title": "Leistungen",
+    "intro": "Zertifikate, Diplome, Kurse und Veröffentlichungen, die die kontinuierliche berufliche Entwicklung belegen.",
+    "countLabel": "Dokumente:",
+    "filterLabel": "Nach Kategorie filtern",
+    "emptyTitle": "In dieser Kategorie gibt es noch keine Dokumente",
+    "emptyText": "Wählen Sie eine andere Kategorie oder kehren Sie zu allen Leistungen zurück.",
+    "emptyCta": "Alle anzeigen"
+  },
+  "categories": {
+    "all": "Alle",
+    "certificates": "Zertifikate",
+    "diplomas": "Diplome",
+    "courses": "Kurse",
+    "publications": "Veröffentlichungen"
+  },
+  "document": {
+    "close": "Schließen",
+    "loading": "Dokument wird geladen…",
+    "openNew": "In neuem Tab öffnen",
+    "download": "Herunterladen",
+    "print": "Drucken",
+    "pdfHint": "Wenn das Dokument im integrierten Viewer nicht angezeigt wird, öffnen Sie es in einem neuen Tab.",
+    "printBlocked": "Der Browser hat das Druckfenster blockiert. Erlauben Sie Pop-ups und versuchen Sie es erneut.",
+    "printFallback": "Wenn der Druck nicht automatisch startet, verwenden Sie die Drucktaste in der geöffneten PDF-Datei.",
+    "error": "Das Dokument konnte nicht geladen werden. Öffnen Sie es in einem neuen Tab.",
+    "year": "Jahr",
+    "category": "Kategorie",
+    "typePdf": "PDF",
+    "typeImage": "Bild"
+  },
+  "contact": {
+    "eyebrow": "Kontakt",
+    "title": "Lassen Sie uns in Kontakt treten",
+    "text": "Offen für Zusammenarbeit, methodische Beratung und Erfahrungsaustausch.",
+    "cta": "Kontakt aufnehmen",
+    "modalTitle": "Kontakt aufnehmen",
+    "modalText": "Wählen Sie den passenden Kontaktweg — ich bemühe mich um eine schnelle Antwort.",
+    "close": "Schließen",
+    "open": "Öffnen",
+    "label": {
+      "email": "E-Mail",
+      "telegram": "Telegram",
+      "whatsapp": "WhatsApp",
+      "max": "MAX",
+      "vk": "VK"
+    },
+    "hint": {
+      "email": "amirken@mail.ru",
+      "telegram": "Auf Telegram schreiben",
+      "whatsapp": "+7 927 963-24-94",
+      "max": "+7 927 963-24-94",
+      "vk": "VK-Profil"
+    }
+  },
+  "footer": {
+    "tagline": "Lehrerin für Englisch und Deutsch",
+    "rights": "© 2026 Milyausha Nurieva. Alle Rechte vorbehalten.",
+    "built": "Eine statische Website mit HTML, CSS und JavaScript.",
+    "backToTop": "Nach oben"
+  },
+  "a11y": {
+    "skip": "Zum Inhalt springen",
+    "home": "Zur Startseite",
+    "mainNav": "Hauptnavigation",
+    "languageSwitcher": "Sprache auswählen",
+    "contactLinks": "Kontaktwege",
+    "openMenu": "Menü öffnen",
+    "closeMenu": "Menü schließen",
+    "external": "Öffnet in einem neuen Tab"
+  }
+}
